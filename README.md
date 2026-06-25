@@ -8,11 +8,11 @@ This project analyzes marketing campaign performance across multiple digital mar
 
 ### Executive Dashboard
 
-![Dashboard 1](HR-1.png)
+![Executive Dashboard](dashboard-overview.png)
 
 ### Campaign Performance Dashboard
 
-![Dashboard 2](HR-2.png)
+![Campaign Performance Dashboard](campaign-performance-insights.png)
 
 ---
 
