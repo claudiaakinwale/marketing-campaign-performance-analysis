@@ -4,6 +4,16 @@
 
 This project analyzes marketing campaign performance across multiple digital marketing channels using Power BI. The dashboard helps business stakeholders monitor campaign performance, identify high-performing marketing channels, understand customer segments, and improve marketing return on investment (ROI).
 
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Dashboard 1](HR-1.png)
+
+### Campaign Performance Dashboard
+
+![Dashboard 2](HR-2.png)
+
 ---
 
 ## Business Problem
